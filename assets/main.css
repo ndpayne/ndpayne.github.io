@@ -23,7 +23,7 @@ span {
 
 
 #body-container {
-	margin:10%;
+	margin:10% 10% auto;
 	max-width: 900px;
 }
 
