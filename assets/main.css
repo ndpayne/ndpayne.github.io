@@ -46,6 +46,10 @@ span {
 	font-size: 2em;
 }
 
+#about-text p {
+	margin: .75em 0;
+}
+
 #email-address {
 	color: #F00;
 	text-decoration: none;
