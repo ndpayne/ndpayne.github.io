@@ -27,6 +27,10 @@ span {
 	max-width: 900px;
 }
 
+#welcome {
+	text-shadow: .03em .04em #F00;
+}
+
 #welcome-container p {
 	font-size: 6em;
 	line-height:1em;
